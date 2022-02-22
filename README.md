@@ -1,6 +1,6 @@
 # Codeless Conduct Hackathon
 
-Welcome to the [Codeless Conduct hackathon](https://gitcoin.co/hackathon/codeless/) 2022!!
+Welcome to the [Codeless Conduct hackathon](https://gitcoin.co/hackathon/codeless/) 2022!! Codeless Conduct is an initiative to embrace this sentiment: a virtual event to learn and experiment with ALL things web3.
 
 Fluence is proud to sponsor this highly accessible hackathon to bring together creators of diverse backgrounds and skill sets to push the limits of Web3 and Fluence.
 
@@ -20,4 +20,4 @@ Judging is based on originality, functionality and completeness of the submissio
 
 ## About Codeless Conduct
 Follow Codeless Conduct on [Twitter](https://twitter.com/codelesscon)
-
+Register & apply for boutnies https://gitcoin.co/hackathon/codeless/prizes/
