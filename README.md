@@ -14,5 +14,5 @@ Fluence provides the infrastructure and tools to enable decentralized compute fo
 see https://fluencenetwork.notion.site/Nocode-Hackathon-Bounties-e1559c5770154d08b74f236e410e3a18
 
 ## About Codeless Conduct
-Follow Codeless Conduct on [Twitter] (https://twitter.com/codelesscon)
+Follow Codeless Conduct on [Twitter](https://twitter.com/codelesscon)
 
