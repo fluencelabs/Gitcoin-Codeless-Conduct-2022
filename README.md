@@ -14,11 +14,7 @@ Fluence provides the infrastructure and tools to enable decentralized compute fo
 see https://fluencenetwork.notion.site/Nocode-Hackathon-Bounties-e1559c5770154d08b74f236e410e3a18
 
 
-## Submission Requirements
-
-* Generously document your submission
-* Provide a three (3) to five minute video to present, explain or demonstrate your solution
-* Submit via a Github or GitLab repo with MIT or Apache 2.0 license
+## Judging
 
 Judging is based on originality, functionality and completeness of the submission. In the case of multiple prizes for a given challenge, the order of submissions determines payout rank for complete and functional projects.
 
