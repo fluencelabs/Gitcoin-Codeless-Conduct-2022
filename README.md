@@ -21,3 +21,4 @@ Judging is based on originality, functionality and completeness of the submissio
 ## About Codeless Conduct
 Follow Codeless Conduct on [Twitter](https://twitter.com/codelesscon)
 Register & apply for boutnies https://gitcoin.co/hackathon/codeless/prizes/
+Graphics you can use for the bounties https://www.dropbox.com/s/24jfk1h3huharkd/Press%20Kit.zip?dl=0
