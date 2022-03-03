@@ -19,6 +19,6 @@ see https://fluencenetwork.notion.site/Nocode-Hackathon-Bounties-e1559c5770154d0
 Judging is based on originality, functionality and completeness of the submission. In the case of multiple prizes for a given challenge, the order of submissions determines payout rank for complete and functional projects.
 
 ## About Codeless Conduct
-Follow Codeless Conduct on [Twitter](https://twitter.com/codelesscon)
-Register & apply for boutnies https://gitcoin.co/hackathon/codeless/prizes/
-Graphics you can use for the bounties https://www.dropbox.com/s/24jfk1h3huharkd/Press%20Kit.zip?dl=0
+* Follow Codeless Conduct on [Twitter](https://twitter.com/codelesscon)
+* Register & apply for boutnies https://gitcoin.co/hackathon/codeless/prizes/
+* Graphics you can use for the bounties https://www.dropbox.com/s/24jfk1h3huharkd/Press%20Kit.zip?dl=0
